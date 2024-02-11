@@ -1,0 +1,26 @@
+diferencça entre null e undefined 
+null é uma variavel sem valor já a undefinied se trata de uma variavel que ainda nao recebey nenhum valor
+
+tipos de dados havascript
+ primitioc 
+null
+undefined
+string 
+number 
+boolean 
+symbol
+ derivados/objetos
+ objetos 
+ funcoes 
+ arrayas e expressoes regulares
+
+true e falso 
+srtings vazias sao falsas 
+
+
+switch casw
+case seria a condiçao colcada
+case 1:
+console.log("algo")
+break-- importante colocar o break para que os demais casos a seguir nao sejam executados caso esse ja tenha sido conteplado
+m
