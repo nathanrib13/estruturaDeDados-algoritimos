@@ -23,4 +23,3 @@ case seria a condiçao colcada
 case 1:
 console.log("algo")
 break-- importante colocar o break para que os demais casos a seguir nao sejam executados caso esse ja tenha sido conteplado
-m
